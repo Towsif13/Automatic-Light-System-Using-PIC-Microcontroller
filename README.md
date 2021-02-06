@@ -6,7 +6,6 @@
 
 This project aims to design an inexpensive automatic lighting system so that no manual or physical input is necessary. The circuit will detect the amount of surrounding light, and based on that; it will turn on/off the lights. It will also display the surrounding light percentage. 
 
-
 **Components :**
 
 •	PIC16F877A Microcontroller\
@@ -36,7 +35,6 @@ This project aims to design an inexpensive automatic lighting system so that no 
 **Simulation Design :**
 
 ![Simulation](Images/3.png)
-
 
 **Procedure :**
 
