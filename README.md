@@ -51,4 +51,4 @@ Vout is connected with pin 2 of the microcontroller as input. When light falls o
 **Contribution :**
 1. [Samiya Kabir Youme](https://github.com/Youme01)
 2. [Hossain Ahamed](https://github.com/ALVI0017)
-3. [Rusafa Binte Sohrawardi](https://github.com/)
+3. [Rusafa Binte Sohrawardi](https://github.com/RusafaDosta)
